@@ -41,5 +41,13 @@
       <p>Free training for federal employees offered by CISA.</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://www.pnw.edu/cybersecurity/cwct/training-paths/">Purdue University Northwest</a>
+    </td>
+    <td>
+      <p>Free cybersecurity training prgrams for military, first responders, and other adult trainees.</p>
+    </td>
+  </tr>
 </table>
 
