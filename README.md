@@ -5,25 +5,40 @@
     <td>
       <a href="https://www.securitylearningacademy.com/">IBM Security Learning Academy</a>
     </td>
+    <td>
+      <p>Great source for learning how to use products offered by IBM.</p>
+    </td>
   </tr>
   <tr>
     <td>
       <a href="https://tryhackme.com/">TryHackMe</a>
+    </td>
+    <td>
+      <p>Cybersecurity training through hands-on scenarios.</p>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://www.hackthebox.com/">Hack The Box</a>
     </td>
+    <td>
+      <p>Hacking training for individuals, companies, and unversities.</p>
+    </td>
   </tr>
   <tr>
     <td>
       <a href="https://tcm-sec.com/">TCM Security</a>
     </td>
+    <td>
+      <p>Veteran owned cybersecurity training, specializing in penetration testing.</p>
+    </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.cisa.gov/cybersecurity-training-exercises">CISA</a>
+      <a href="https://www.cisa.gov/cybersecurity-training-exercises">CISA Training</a>
+    </td>
+    <td>
+      <p>Free training for federal employees offered by CISA.</p>
     </td>
   </tr>
 </table>
