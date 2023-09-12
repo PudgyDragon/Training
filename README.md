@@ -3,6 +3,12 @@
 <table>
   <tr>
     <td>
+      <a href="https://public.cyber.mil/cyber-training/">DoD Cyber Exchange (Public)</a>
+    </td>
+    <td>
+      <p>DISA sponsored Cybersecurity training.</p>
+    </td>
+    <td>
       <a href="https://www.securitylearningacademy.com/">IBM Security Learning Academy</a>
     </td>
     <td>
