@@ -1,5 +1,5 @@
 # Training Websites
-
+Repository of useful training websites for Cybersecurity professionals. 
 <table>
   <tr>
     <td>
