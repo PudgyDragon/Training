@@ -8,6 +8,8 @@
     <td>
       <p>DISA sponsored Cybersecurity training.</p>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://www.securitylearningacademy.com/">IBM Security Learning Academy</a>
     </td>
