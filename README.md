@@ -3,6 +3,14 @@
 <table>
   <tr>
     <td>
+      <a href="https://learn.dcita.edu/">DC3 Cyber Training Academy</a>
+    </td>
+    <td>
+      <p>Free and paid training for Government employees.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://public.cyber.mil/cyber-training/">DoD Cyber Exchange (Public)</a>
     </td>
     <td>
